@@ -1,0 +1,25 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    background-color: white;
+}
+
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://i.ytimg.com/vi/7r6NJkmgeXk/maxresdefault.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#obrazok{
+    display: inline-block;
+}
